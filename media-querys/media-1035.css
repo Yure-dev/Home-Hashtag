@@ -1,0 +1,39 @@
+@media all and (max-width: 65.9375em) {
+  html {
+    font-size: 50%;
+  }
+
+  /* Cabeçalho */
+  .cabecalho {
+    padding: 1.6rem 2rem;
+    & img {
+      width: 7.73vw;
+    }
+  }
+
+  /* Conteudos Graituitos */
+
+  .img-conteudos {
+    max-width: 41vw;
+  }
+
+  /* O que falam */
+
+  .container-oquefalam {
+    margin: 0 8.6rem;
+  }
+
+  /* Footer */
+
+  .container-rodape {
+    gap: 3.77vw;
+  }
+
+  .rodape-coluna {
+    max-width: 35vw;
+  }
+
+  .logo-footer {
+    width: 13.9vw;
+  }
+}
